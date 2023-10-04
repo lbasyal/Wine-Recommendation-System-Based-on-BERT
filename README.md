@@ -1,2 +1,3 @@
-# Wine-Recommendation-System-Based-on-BERT
-The presented work demonstrates the successful implementation of a multi-level classification model utilizing the powerful BERT pre-trained model. The results showcase state-of-the-art performance on a widely recognized public dataset, with an overall accuracy of 84% achieved through training the model with a batch size of 16 and 10 epochs.
+# Wine Recommendation System with BERT
+
+This project showcases the implementation of a high-performing multi-level classification model using the BERT pre-trained model. It achieves a remarkable 84% overall accuracy on a well-known public dataset, trained with a batch size of 16 over 10 epochs.
